@@ -41,3 +41,4 @@ IP: 178.184.255.xxx, провайдер: Kemerovo Regional Telegraph, branch of 
  Вам поможет смена DNS, например, на Яндекс.DNS 77.88.8.8 или Google DNS 8.8.8.8 и 8.8.4.4.
 [⚠] Ваш провайдер полностью блокирует доступ к HTTPS-сайтам из реестра.
 [⚠] У вашего провайдера "обычный" DPI. Вам поможет HTTPS/Socks прокси, VPN или Tor
+![Image alt](https://github.com/KirillNik/BlockCheck/blob/master/1.jpg)
